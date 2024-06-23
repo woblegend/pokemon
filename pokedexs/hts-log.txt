@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Jun 2024 15:58:03 at https://complete.js-pokemon.com/?generation +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://complete.js-pokemon.com/?generation -O1 "D:web\pokedex" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:18	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10128.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:18	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10129.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10146.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10153.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10154.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10158.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10159.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:19	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10160.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:20	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10181.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:20	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10182.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:20	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10183.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:20	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10187.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:21	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10192.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10264.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10265.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10266.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10267.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10268.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10269.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10270.png (from https://complete.js-pokemon.com/?generation=all)
+16:09:24	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10271.png (from https://complete.js-pokemon.com/?generation=all)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 21 seconds : 2625 links scanned, 2603 files written (12212507 bytes overall) [8295744 bytes received at 12181 bytes/sec], 10924604 bytes transferred using HTTP compression in 1317 files, ratio 28%, 375.0 requests per connection
+(21 errors, 0 warnings, 0 messages)
